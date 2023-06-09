@@ -1,0 +1,49 @@
+Soup
+____________________
+1. Hot and Sour Soup
+2. Manchow Soup
+3. veg crema di broccoli soup
+4. Puree crema di spinach soup
+5. Avocado soup
+6. roasted Pumpkin soup
+7. Cream of mushroom soup
+8. Baked garlic Lentil Soup
+9. Chicken corn creamed soup
+10. Chicken corn clear soup ->
+11. chicken meatball soup creamed
+12 chicken meatball soup clear
+13. Chicken and Wild Rice Soup
+14. BBQ chicken noodles soup
+15. minestrone soup
+16. Mix Vegi soup
+17. Asparagus creamy soup
+18. Leeks soup
+19. Chicken wings manchow soup
+20. Vegitable Manchow soup
+Add On. 
+	1. bread_croutons (Free)
+	2. Cheddar Cheese
+	
+Side Dishes
+	1. Garlic Bread
+	2. Con Samooza
+	3. Hot Pot(Baby Corn) & Baby corn spicy
+	4. Grilled Veg
+	5. Baked Garlic mashed potato
+	6. Chicken meatball
+	7. Mutton meatball with mother sauce
+Main Dish
+	1. American Wild rice 
+	2. Wild rice classic
+	3. Spugidi meatball (Mashroom, Garlic, Classic)
+	4. calamari (Stuffed, Classic)
+
+Beverages
+	1. Sri lankann black team (Hot & Cold)
+	2. Citrus Sunrise - Honey Lemon Hot & Cold)
+
+
+	
+
+
+	
