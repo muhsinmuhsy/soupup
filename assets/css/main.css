@@ -84,12 +84,19 @@ section {
   font-family: var(--font-default);
 }
 
+@font-face {
+  font-family: "Segoe Print";
+  src: url("path/to/segoe-print.woff2") format("woff2"),
+       url("path/to/segoe-print.woff") format("woff");
+}
+
 .section-header p {
   margin: 0;
   font-size: 48px;
   font-weight: 400;
-  font-family: Segoe Print;
+  font-family: "Segoe Print", Arial, sans-serif;
 }
+
 
 .section-header p span {
   color: var(--color-primary);
