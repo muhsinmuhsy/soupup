@@ -79,12 +79,14 @@ section {
   margin: 0;
   font-size: 48px;
   font-weight: 400;
-  font-family: 'Segoe Print', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: var(--font-primary);
+  font-weight: bolder;
 }
 
 
 .section-header p span {
   color: var(--color-primary);
+  font-weight: bolder;
 }
 
 /*--------------------------------------------------------------
@@ -331,6 +333,8 @@ section {
     white-space: nowrap;
     transition: 0.3s;
     position: relative;
+    justify-content: center;
+    
   }
 
   .navbar a i,
@@ -482,6 +486,7 @@ section {
     color: #a4b0bb;
     white-space: nowrap;
     transition: 0.3s;
+    justify-content: center;
   }
 
   .navbar a i,
