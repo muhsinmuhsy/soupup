@@ -69,7 +69,7 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero d-flex align-items-center section-bg">
+  <!-- <section id="hero" class="hero d-flex align-items-center section-bg">
     <div class="container">
       <div class="row justify-content-between gy-5">
         <div class="col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
@@ -96,7 +96,49 @@
         </div>
       </div>
     </div>
-  </section><!-- End Hero Section -->
+  </section> -->
+
+
+  <section id="hero" class="hero d-flex align-items-center section-bg">
+    <div class="container">
+      <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="row justify-content-between gy-5">
+              <!-- <div class="col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
+                <h2 data-aos="fade-up">Nourish your palate with our tasty<br>wholesome soups</h2>
+                
+                <p data-aos="fade-up" data-aos-delay="100">Savor the mouthwatering taste of our nutritious and delectable soup, crafted to satisfy your cravings</p>
+                <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
+                  
+                </div>
+              </div> -->
+              <div class="img col-lg-5 order-1 order-lg-2 text-center text-lg-start">
+                <img src="assets/img/main/Soup up Fianal Logo-01[53].png" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
+              </div>
+            </div>
+
+          </div>
+          <div class="carousel-item">
+            <div class="text-1"  style="color: #fff;" >
+              <h4>Hiiii</h4>
+            </div>
+          </div>
+          <div class="carousel-item" style="color: #fff;">
+            <div class="tex-2">
+              <h4>HEllo</h4>
+            </div>
+          </div>
+          <div class="carousel-item" style="color: #fff;">
+            <div class="text-3">
+              <h4>Welcome</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Hero Section -->
 
   <main id="main">
 
@@ -754,6 +796,16 @@
     <img src="assets/img/main/Soup up Fianal Logo-01[53].png" alt="Preloader Image">
   </div>
   
+
+  <!-- For imag and tex sliding inhero section -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const carousel = document.getElementById("myCarousel");
+      const carouselInstance = new bootstrap.Carousel(carousel, {
+        interval: 2000
+      });
+    });
+  </script>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
