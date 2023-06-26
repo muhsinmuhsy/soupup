@@ -2183,7 +2183,7 @@ progress {
   margin-inline-end: 0.75rem;
   color: var(--bs-body-color);
   background-color: var(--bs-tertiary-bg);
-  pointer-events: none;
+  pointer-: none;
   border-color: inherit;
   border-style: solid;
   border-width: 0;
